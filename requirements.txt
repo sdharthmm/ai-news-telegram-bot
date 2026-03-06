@@ -1,2 +1,4 @@
-python-telegram-bot==20.6
-requests
+gpt4all==2.8.2
+python-dotenv==1.2.2
+python-telegram-bot==22.6
+Requests==2.32.5
